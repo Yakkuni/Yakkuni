@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div align="center"><br>
+  <a href="https://github.com/Yakkuni">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yakkuni&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakkuni&layout=compact&langs_count=7&theme=aura"/>
+</div>
 
 <!--
 **Yakkuni/Yakkuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
