@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A61AC&center=true&vCenter=true&random=false&width=435&height=70&lines=Hello~+I'am+Yakkuni!;I'am+19+years+old.;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=7A61AC&center=true&vCenter=true&random=false&width=960&height=75&lines=Hello!+i'am+Yakkuni;I'am+19+years+old.;Welcome+to+my+profile)](https://git.io/typing-svg)
 
  ### About me:
 - 📖 I’m actually doing the course of Systems Analysis and Development.
