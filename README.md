@@ -53,8 +53,10 @@
   <br><img src="https://github-profile-trophy.vercel.app/?username=Yakkuni&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+<br>
+
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FYakkuni&s=21&c=7B68EE&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" alt="Contador de Visitas"/></p>
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FYakkuni&s=50&c=9745F5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" alt="Contador de Visitas"/></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
