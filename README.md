@@ -39,14 +39,6 @@
 
 <br>
 
-<div align="center">
-  <img
-    align="center"
-    alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=Yakkuni&theme=midnight-purple&card_width=885&hide_border=true&background=0d1117"
-  />
-</div>
-
 <br>
 
 <p align="center">
@@ -54,9 +46,5 @@
 </p>
 
 <br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FYakkuni&s=50&c=9745F5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" alt="Contador de Visitas"/></p>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
