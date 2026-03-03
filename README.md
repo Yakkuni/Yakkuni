@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=9745F5&center=true&vCenter=true&width=500&lines=Hello!+i'm+Yakkuni;Welcome+to+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=9745F5&center=true&vCenter=true&width=900&lines=Hello!+i'm+Yakkuni;I'm+20+years+old.;Welcome+to+my+profile" alt="Typing SVG" />
 </p>
 
 ### 📖 About me:
@@ -21,14 +21,15 @@
 
 ---
 
-### 📊 My GitHub Stats:
+<details open>
+<summary><h2>📊 Stats and Activity</h2></summary>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yakkuni&show_icons=true&theme=dark&title_color=9745F5&icon_color=9745F5&text_color=87CEFA&bg_color=0d1117&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakkuni&layout=compact&theme=dark&title_color=9745F5&text_color=87CEFA&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yakkuni&theme=dark&hide_border=true&stroke=9745F5&ring=9745F5&fire=9745F5&currStreakNum=87CEFA&sideNums=87CEFA&sideLabels=87CEFA&dates=87CEFA&currStreakLabel=9745F5" alt="Yakkuni Streak Stats" />
+  
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yakkuni&theme=darkhub&row=1&column=6&no-bg=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yakkuni&bg_color=0d1117&color=87CEFA&line=9745F5&point=87CEFA&area=true&area_color=9745F5&hide_border=true&title_color=9745F5" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
