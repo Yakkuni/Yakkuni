@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=9745F5&center=true&vCenter=true&width=900&lines=Hello!+i'm+Yakkuni;I'm+20+years+old.;Welcome+to+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=9745F5&center=true&vCenter=true&width=900&lines=Hello!+i'm+Yakkuni;I'm+21+years+old.;Welcome+to+my+profile" alt="Typing SVG" />
 </p>
 
 ### 📖 About me:
